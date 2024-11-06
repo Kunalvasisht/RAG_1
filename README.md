@@ -19,7 +19,7 @@ This project implements a simple **Retrieval-Augmented Generation (RAG)** server
 ## Setup Instructions:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/RAG_.git
+    git clone https://github.com/yourusername/RAG_1.git
     cd RAG_
     ```
 
@@ -34,6 +34,3 @@ This project implements a simple **Retrieval-Augmented Generation (RAG)** server
     ```
 
 4. Access the API documentation at `http://127.0.0.1:8000/docs`.
-
-## License:
-Include your license information here.
