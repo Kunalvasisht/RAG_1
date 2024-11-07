@@ -4,7 +4,6 @@ from embeddings import get_embedding
 
 app = FastAPI()
 
-# Endpoint to ingest a document
 @app.post("/ingest/")
 async def ingest(document: str):
     try:
